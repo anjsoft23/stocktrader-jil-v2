@@ -1,7 +1,7 @@
 # StockTraderJilv2 Installation:
 
 ## Table Of Contens : 
-[Steps to install MongoDB using helm](#steps-to-install-mongodb-using-helm)
+- [Steps to install MongoDB using helm](#steps-to-install-mongodb-using-helm)
 
 ### 1. Deployment of IBM DB2 :
 

@@ -1,8 +1,7 @@
 # StockTraderJilv2 Installation:
 
-Table of Contents : 
-[Deployment of Stock Trader application components](#deployment-of-stock-trader-application-components)
-
+## Table Of Contens : 
+[Steps to install MongoDB using helm](#steps-to-install-mongodb-using-helm)
 
 ### 1. Deployment of IBM DB2 :
 
@@ -100,7 +99,7 @@ Table of Contents :
     echo "URL : http://$NODE_IP:$NODE_PORT_STATS/"
     ```
 
-### 5. Steps to install MongoDB using helm:
+    ### Steps to install MongoDB using helm
 ##### If helm is not yet installed, use the following steps to install helm:
 - Use curl command as mentioned below to create a get_helm.sh file to install helm.
     ```bash

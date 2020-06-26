@@ -1,5 +1,9 @@
 # StockTraderJilv2 Installation:
 
+Table of Contents : 
+[Deployment of Stock Trader application components](#deployment-of-stock-trader-application-components)
+
+
 ### 1. Deployment of IBM DB2 :
 
 - Provision one ubuntu-16.04 DB2 VM2 

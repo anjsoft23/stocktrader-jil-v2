@@ -99,7 +99,7 @@
     echo "URL : http://$NODE_IP:$NODE_PORT_STATS/"
     ```
 
-    ### Steps to install MongoDB using helm
+### Steps to install MongoDB using helm
 ##### If helm is not yet installed, use the following steps to install helm:
 - Use curl command as mentioned below to create a get_helm.sh file to install helm.
     ```bash
